@@ -1,3 +1,16 @@
+##how to install dependencies
+1. create new project with python 3.10 or above
+2. create new files "app.py" and "requirements.txt"
+3. copy paste the code and the dependencies in both files respectively
+4. install dependencies by running the following code in the terminal "pip install -r requirements.txt"
+5. wait and let the skeletons update
+6. onces done run streamlit "streamlit run app.py"
+-------- onces you have got to this point, rest we will continue in the workshop
+7. replace the api key and project key with your own
+8. import the project into your action table
+
+
+
 ## Recruitment Helper - Your AI Assistant for Job Matching
 
 This is a simple web app designed to help match job seekers with job descriptions, using AI to analyze CVs and extract useful insights. The app is built using Streamlit, making it easy to use with a friendly user interface.
